@@ -19,11 +19,12 @@ Checkout some of the excitting projects I've been working on!
 <h2> 🔐🪪 Cloud/Cybersecurity Projects:</h2>
 
 - <b>Hardening Environments in Azure</b>
-  - [Azure SOC Overview]()
+  - [Azure SOC Overview](https://github.com/sfariasjr/Azure-SOC-Overview/blob/main/README.md)
   - [Azure SOC Setup]()
   - [Logging and Monitoring]()
   - [Microsoft Sentinel SIEM]()
   - [Secure Azure Configuration]()
+  - [Azure SOC Detailed Summary]()
 
 ---
 <h2>🤳Connect with me:</h2>
