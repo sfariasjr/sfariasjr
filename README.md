@@ -18,7 +18,7 @@ Checkout some of the exciting projects I've been working on!
 
 <h2> 🔐🪪 Cloud/Cybersecurity Projects:</h2>
 
-- <b>Hardening Environments in Azure</b>
+- <b>Security in Azure</b>
   - [Azure SOC Overview](https://github.com/sfariasjr/Azure-SOC-Overview/blob/main/README.md)
   - [Azure SOC Setup](https://github.com/sfariasjr/Azure-SOC-Setup)
   - [Logging and Monitoring]()
