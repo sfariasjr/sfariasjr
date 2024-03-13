@@ -1,6 +1,6 @@
 <h1>Hi, I'm Saul!</a>😄</h1>
 
-Checkout some of the exciting projects I've been working on!
+<h2>Checkout some of the exciting projects I've been working on!<h2>
 
 <h2>📶🖥️ Cloud/Network Projects:</h2>
 
