@@ -1,7 +1,5 @@
 <h1>Hi, I'm Saul!</a>😄</h1>
 
-<h2>An Aspiring Machine Learning Engineer with a strong interest in the field of cybersecurity. Proficient in Python and experienced with Azure, Windows, and Linux environments. Expertise in ISO 27001, NIST Cybersecurity Framework, and OWASP Top 10, adhering to industry best practices and protecting critical systems. Passionate about creating a secure digital landscape, dedicated to proactively mitigating emerging risks and contributing to the overall cybersecurity field.<h2>
-
 Checkout some of the exciting projects I've been working on!
 
 <h2>📶🖥️ Cloud/Network Projects:</h2>
